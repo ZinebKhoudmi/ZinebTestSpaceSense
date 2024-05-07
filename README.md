@@ -51,3 +51,4 @@ MobileSam is a machine learning model specialized in image segmentation on CPUs.
 - Submit your code via a GitHub repository link.
 - Include a README file with detailed setup and usage instructions.
 - Provide any necessary scripts or files for testing the API.
+"# ZinebTestSpaceSense" 
